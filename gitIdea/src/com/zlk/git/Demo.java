@@ -8,5 +8,6 @@ package com.zlk.git;
 public class Demo {
     public static void main(String[] args) {
         System.out.println("hello update");
+        System.out.println("第一个人提交");
     }
 }
